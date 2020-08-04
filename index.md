@@ -71,7 +71,7 @@
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/Sem título2.png" alt="Site cafeteria."/>
+                            </div><img class="img-fluid" src="assets/img/portfolio/Sem título22.png" alt="Site cafeteria."/>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5">
@@ -118,7 +118,7 @@
                                     <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título.png" alt="Página escritório de advocacia."/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Página criada para escritório de advocacia com fins de estudo.</p>
-                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Fechar Janela</button>
+                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
                                 </div>
                             </div>
                         </div>
@@ -142,10 +142,10 @@
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título2.png" alt="Site cafeteria."/>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título22.png" alt="Site cafeteria."/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Site criado para cafeteria totalmente responsivo em dispositivos móveis.</p>
-                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Fechar Janela </button>
+                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +172,7 @@
                                     <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título3.png" alt="Sistema de gestão para cadastro de usuários"/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Sistema de gestão para cadastro e controle de informações de usuários com banco de dados feito em NodeJS, com upload de imagens, edição de dados no banco de dados e totalmente responsivo em dispositivos móveis. Link do projeto no GitHub: https://github.com/Jlpsz/Projeto-Sistema-Usuarios-NodeJS-RestFulAPI</p>
-                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Fechar Janela</button>
+                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +199,7 @@
                                     <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título4.png" alt="Restaurante Alto Sabor"/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Página responsiva em dispositivos móveis com integração com banco de dados para salvar reservas feitas por clientes.</p>
-                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Fechar Janela</button>
+                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
                                 </div>
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                                     <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título5.png" alt="Projeto Calculadora Completa Javascript"/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Calculadora completa e funcional com backend criado em JavaScript, com marcação de data/hora, integração sonora. Link do projeto no GitHub: https://github.com/Jlpsz/Projeto-Calculadora-Joao-Lucas</p>
-                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Fechar Janela</button>
+                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
                                 </div>
                             </div>
                         </div>
