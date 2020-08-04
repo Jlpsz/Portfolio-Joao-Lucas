@@ -118,7 +118,7 @@
                                     <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/Sem título.png" alt="Página escritório de advocacia."/>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Página criada para escritório de advocacia com fins de estudo.</p>
-                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                    <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Fechar Janela</button>
                                 </div>
                             </div>
                         </div>
